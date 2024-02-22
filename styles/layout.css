@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(217, 217, 217, 1);
+}
+
+.site{
+    background-color: rgba(217, 217, 217, 1);
+    max-width: 1920px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    gap: 3em;
+    padding: 4em 3em;
+}
